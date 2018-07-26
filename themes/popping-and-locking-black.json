@@ -335,7 +335,7 @@
 		{
 			"scope": "support.type.property-name",
 			"settings": {
-				"foreground": "#fabd2f"
+				"foreground": "#99c6ca"
 			}
 		},
 		{
@@ -526,7 +526,8 @@
 			"name": "CSS propperty",
 			"scope": "support.type.property-name.css",
 			"settings": {
-				"foreground": "#fabd2f"
+				"foreground": "#99c6ca",
+				"fontStyle": "italic"
 			}
 		},
 		{
