@@ -4,4 +4,7 @@ All notable changes to the "popping-and-locking-vscode-black" extension will be 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## Initial Release
+## 2018-07-26
+
+- ✨ Add Popping and Locking Black Color Values
+- 🎉 Initial Commit
