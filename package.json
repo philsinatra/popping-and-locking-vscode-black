@@ -2,7 +2,7 @@
 	"name": "popping-and-locking-vscode-black",
 	"displayName": "Popping and Locking Black Theme",
 	"description": "A variation of the original popping-and-locking theme that uses black as the primary background color",
-	"version": "0.0.2-0",
+	"version": "0.0.2",
 	"publisher": "philsinatra",
 	"engines": {
 		"vscode": "^1.25.0"
