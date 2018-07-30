@@ -10,6 +10,7 @@
 		"sideBar.background": "#000000",
 		"sideBar.foreground": "#fbf1c7",
 		"sideBarSectionHeader.background": "#000000",
+		"sideBar.border": "#222222",
 		"list.activeSelectionBackground": "#313242",
 		"list.inactiveSelectionBackground": "#313242",
 		"list.hoverBackground": "#313242",
