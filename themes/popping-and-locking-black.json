@@ -11,10 +11,10 @@
 		"sideBar.foreground": "#fbf1c7",
 		"sideBarSectionHeader.background": "#000000",
 		"sideBar.border": "#222222",
-		"list.activeSelectionBackground": "#313242",
-		"list.inactiveSelectionBackground": "#313242",
-		"list.hoverBackground": "#313242",
-		"list.focusBackground": "#313242",
+		"list.activeSelectionBackground": "#1c1d26",
+		"list.inactiveSelectionBackground": "#1c1d26",
+		"list.hoverBackground": "#1c1d26",
+		"list.focusBackground": "#1c1d26",
 
 		"titleBar.activeBackground": "#000000",
 		"titleBar.activeForeground": "#f2e5bc",
@@ -70,7 +70,7 @@
 
 		"extensionButton.prominentBackground": "#599442",
 
-		"notification.background": "#313242",
+		"notification.background": "#1c1d26",
 		"notification.buttonBackground": "#458588",
 		"notification.infoBackground": "#458588",
 		"notification.warningBackground": "#d79921",
@@ -147,7 +147,8 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#7ec16e"
+				"foreground": "#7ec16e",
+				"fontStyle": "italic"
 			}
 		},
 		{
