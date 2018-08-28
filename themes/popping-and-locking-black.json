@@ -43,18 +43,18 @@
 		"editor.lineHighlightBorder": "#272836",
 		"editorWidget.background": "#272836",
 
-		"editor.selectionBackground": "#ffffff22",
-		"editor.inactiveSelectionBackground": "#ffffff22",
+		"editor.selectionBackground": "#FFFFBE55",
+		"editor.inactiveSelectionBackground": "#FFFFBE55",
 		"editor.selectionHighlightBackground": "#FFFFBE55",
 
 		"editor.wordHighlightStrongBackground": "#FFFFBE55",
-		"editor.wordHighlightBackground": "#ffffff22",
+		"editor.wordHighlightBackground": "#FFFFBE55",
 
 		"editorCursor.foreground": "#f42c3e",
 
-		"editor.findMatchBackground": "#ffffff22",
+		"editor.findMatchBackground": "#FFFFBE55",
 		"editor.findMatchHighlightBackground": "#FFFFBE55",
-		"editor.findRangeHighlightBackground": "#ffffff22",
+		"editor.findRangeHighlightBackground": "#FFFFBE55",
 
 		"panel.background": "#000000",
 

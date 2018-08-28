@@ -4,6 +4,10 @@ All notable changes to the "popping-and-locking-vscode-black" extension will be 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2018-08-28
+
+- 🎨 Update Selection Highlight Background Color
+
 ## 2018-07-30
 
 - 🎨 Add SideBar Border Color
